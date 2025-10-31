@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.aicec/
+.venv/
+embeddings_manifest.json
